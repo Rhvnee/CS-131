@@ -1,0 +1,3 @@
+awk -f grader.awk grades.csv
+
+Replace grades.csv with whatever csv file you are using it on
